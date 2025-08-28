@@ -18,7 +18,8 @@ This project focuses on integrating public APIs with Python to fetch real-time d
 
 Using the OpenWeatherMap API, the project retrieves 5-day weather forecasts for a specified city. The data is processed to extract temperature trends over time and visualized using line plots. This helps in understanding temporal patterns and enhances decision-making through visual insights.
 
-Key Technologies
+Key Technologies : 
+
 Python: Core scripting and data handling
 
 Requests: For API communication
@@ -27,7 +28,8 @@ Matplotlib: For data visualization
 
 OpenWeatherMap API: Source of real-time weather data
 
-Learning Outcomes
+Learning Outcomes : 
+
 Hands-on experience with RESTful API integration
 
 Data extraction and transformation using Python
