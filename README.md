@@ -37,3 +37,7 @@ Data extraction and transformation using Python
 Building clean and readable visualizations
 
 Error handling and debugging real-world API responses
+
+OUTPUT : 
+
+<img width="1246" height="706" alt="Image" src="https://github.com/user-attachments/assets/26619167-9ae3-4940-b733-0e19633122b3" />
